@@ -1,8 +1,8 @@
-# **# 🔥 Fire Detection and Alert System**
+ **# 🔥 Fire Detection and Alert System**
 
 # 
 
-# ***## 📌 Overview***
+***## 📌 Overview***
 
 # The \*\*Fire Detection and Alert System\*\* is designed to detect fire hazards at an early stage using \*\*IR Flame Sensor, Smoke Sensor (MQ-2), Temperature Sensor (DHT11), and GSM Module (SIM800L)\*\*. The system alerts users by sending \*\*real-time SMS notifications\*\* via GSM.
 
@@ -16,7 +16,7 @@
 
 # 
 
-# ***## 👨‍💻 Team Members***
+ ***## 👨‍💻 Team Members***
 
 # \- Jaden Fernandes  
 
@@ -32,7 +32,7 @@
 
 # 
 
-# ***## 🎯 Objectives***
+ ***## 🎯 Objectives***
 
 # \- Detect fire incidents in their early stages.  
 
@@ -46,7 +46,7 @@
 
 # 
 
-# ***## 🛠️ Components Used***
+ ***## 🛠️ Components Used***
 
 # | Component           | Specification | Qty |
 
@@ -68,7 +68,7 @@
 
 # 
 
-# ***## ⚡ Working***
+ ***## ⚡ Working***
 
 # 1\. Sensors (Flame, Smoke, Temperature) detect fire indicators.  
 
@@ -82,7 +82,7 @@
 
 # 
 
-# ***## 📐 Circuit \& Block Diagram***
+ ***## 📐 Circuit \& Block Diagram***
 
 # \### Block Diagram
 
@@ -90,7 +90,7 @@
 
 # 
 
-# ***### Circuit Diagram***
+ ***### Circuit Diagram***
 
 # !\[Circuit Diagram](./circuit\_diagram.png)
 
@@ -100,7 +100,7 @@
 
 # 
 
-# ***## 💻 Source Code***
+ ***## 💻 Source Code***
 
 # Source code is available in the `Code/` directory.  
 
