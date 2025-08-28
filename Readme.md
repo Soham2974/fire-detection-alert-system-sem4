@@ -136,5 +136,8 @@
 
 # The project provides a \*\*low-cost and effective solution\*\* for fire detection and ensures \*\*early alerts\*\* to prevent casualties and damage.
 
+## Support
+
+For more information or assistance, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soham-ghadigaonkar-2b8827239/).
 
 
