@@ -55,7 +55,7 @@ Source code is available in the `SEM_4.pdf/` directory.
 
 ## 📚 Report
 For detailed explanation, refer to the full project report:  
-👉 [Fire Detection and Alert System Report (PDF)](./REPORT_FINAL.pdf)
+👉 [Fire Detection and Alert System Report (PDF)](./SEM_4.pdf)
 
 ---
 
