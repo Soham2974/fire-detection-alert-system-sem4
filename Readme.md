@@ -48,7 +48,7 @@ This project was developed as part of **Semester IV Mini Project (AY 2023-24)** 
 ---
 
 ## 💻 Source Code
-Source code is available in the `SEM_4.pdf/` directory.  
+Source code is available in the `fire-detection-alert-system-sem4/` directory.  
 
 
 ---
