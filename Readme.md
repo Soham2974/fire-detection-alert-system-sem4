@@ -42,17 +42,14 @@ This project was developed as part of **Semester IV Mini Project (AY 2023-24)** 
 ---
 
 ## 📐 Circuit & Block Diagram
-(Add images here under `Images/` folder)
+ `Block_diagram.png/` 
+ `circuit_diagram.png/` 
 
 ---
 
 ## 💻 Source Code
-Source code is available in the `Code/` directory.  
+Source code is available in the `SEM_4.pdf/` directory.  
 
----
-
-## 📷 Demo
-(Add project demo images/videos here)
 
 ---
 
