@@ -9,7 +9,7 @@ This project was developed as part of **Semester IV Mini Project (AY 2023-24)** 
 ---
 
 ## 👨‍💻 Team Members
-- Jaden Fernandes (Roll No. 21)  
+- Priyanshu Sakharkar (Roll no. 46) 
 - Ayush Gajbhiye (Roll No. 25)  
 - **Soham Ghadigaonkar (Roll No. 29)**  
 - Om Hindalekar (Roll No. 32)
